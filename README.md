@@ -6,8 +6,6 @@ Just a little CLI game I made to simulate how human brain learns new words.
 ## actual app
   gets size of dictionary, or the meaning of a particular word if needed. other stuff too. I'll add more detials if necesary. 
   
-### to use the exe file
-don't use it yet, but here are the commnds.
 # Cmds: 
 	a. Get word # Findes word in the database 
 	b. Get -rt word # returns the root of word else returns an error
